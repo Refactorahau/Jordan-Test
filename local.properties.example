@@ -1,0 +1,6 @@
+sdk.dir=/Users/<you>/Library/Android/sdk
+
+# Cute environment API base URL (must end with a slash)
+trademe.apiBaseUrl=https://api.priceflags.test.cutely.xyz/
+trademe.consumerKey=
+trademe.consumerSecret=
